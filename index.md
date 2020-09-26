@@ -1,37 +1,43 @@
-## Welcome to GitHub Pages
+## Chhana = Paneer = Homemade cheese
 
-You can use the [editor on GitHub](https://github.com/drani/MakingChhana/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+If you've ever had saag paneer in an Indian restaurant, you're familiar with the cubes of cheese embedded in spicy spinach slurry. In the state of West Bengal, paneer is called chhana. Same difference. This page will teach you to make chhana.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+### What you'll need
 
 ```markdown
-Syntax highlighted code block
 
-# Header 1
-## Header 2
-### Header 3
+Implements
+A large heavy-bottomed pot with lid
+cheesecloth or fine cloth
+wooden spoon
+colander
 
-- Bulleted
-- List
+Ingredients
+gallon of milk (organic whole is best)
+quart of buttermilk 
 
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
 ```
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+### Make the paneer
+```markdown
+1. Pour the gallon of milk into the pot on the stove.
+2. Heat the pot at medium-high heat with the lid mostly on.
+   Watch carefully! It can boil fast. If it burns and sticks, the party's over.
+3. Once the milk begins to think about boiling, turn the heat to low.
+4. Pour in the buttermilk until the milk separates into curds (white solids) and whey (slightly green liquid.)
+   Stir until the curds seem to be done separating from the whey, maybe two minutes.
+5. Arrange the cheesecloth in the colander so it is both doubled-up and also overlaps the edges
+   Set the colander in the sink or over a large bowl to collect the whey.
+6. Pour the hot curds and whey from the pot into the cheesecloth-lined colander.
+7. Drain the curds
+```
 
-### Jekyll Themes
+## Use the paneer
+```markdown
+For loose curds, leave in the colander to drain. Eat with sugar or honey.
+   
+For denser cheese, tie up the ends of the cheesecloth and hang to drip.
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/drani/MakingChhana/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+For cubes, let drip until dripping stops, spread in a dish to dry out further and cut into cubes.
+Fry the cubes before using them in curries to maintain their shape.
+```
