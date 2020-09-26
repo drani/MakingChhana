@@ -2,6 +2,8 @@
 
 If you've ever had saag paneer in an Indian restaurant, you're familiar with the cubes of cheese embedded in spicy spinach slurry. In the state of West Bengal, paneer is called chhana. Same difference. This page will teach you to make chhana.
 
+```markdown
+```
 ### What you'll need
 
 ```markdown
@@ -32,7 +34,7 @@ quart of buttermilk
 7. Drain the curds
 ```
 
-## Use the paneer
+### Use the paneer
 ```markdown
 For loose curds, leave in the colander to drain. Eat with sugar or honey.
    
